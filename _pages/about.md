@@ -65,102 +65,250 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a **junior** at [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/), [Renmin University of China](https://www.ruc.edu.cn/). I was an exchange student at [University of California, Davis](https://www.ucdavis.edu/) (2025.01 -- 2025.03) and will become a visiting research student at [Dalhousie University](https://www.dal.ca/) this summer (2025.07 -- 2025.10), co-sponsored by [Mitacs, Canada](https://www.mitacs.ca/) and [China Scholarship Council](https://www.csc.edu.cn/).
+I am currently a fifth-year direct PhD student at the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/). His research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 12 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 4 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 20 SCI journals, including IEEE TIP, IEEE TGRS, IEEE JSTARS, IEEE GRSL, IF, NN, ESWA, KBS, and EAAI. I have awarded with the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
 
-My research interests focus on **deep reinforcement learning, sequential decision making, continual learning, recommender systems, and computational advertising**. Recently, I am focusing on:  
-(1) sequential bidding ranking algorithms;  
-(2) machine unlearning in generative recommendation.  
-My research aims to build **intelligent systems that are elegant in theory and effective in practice**, and provide credible solutions to the urgent needs of contemporary society.
+王德港，1997年生，河北张家口人，[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)直博五年级在读。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文12篇，其中，以第一作者身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇（4篇入选ESI高被引论文，1篇入选Wiley 2023年度高被引论文），EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TIP、IEEE TGRS、IEEE JSTARS、IEEE GRSL、IF、NN、ESWA、KBS、EAAI等20多个国际知名SCI期刊独立审稿人。先后获中国科学院院长优秀奖、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖、中国科学院空天信息创新研究院一等学业奖学金、中国科学院空天信息创新研究院优秀共青团员等荣誉奖励。
+
+- Email: wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
+- WeChat: [Together0908o_o](https://github.com/DegangWang97/DegangWang97.github.io/blob/master/images/WeChat.png)
 
 
 # 🔥 News
-- *2025.06.06*: &nbsp;🎉 Receive a pre-departure scholarship of **3,600 CAD** from China Scholarship Council!
-- *2025.05.15*: &nbsp;🎉 A paper about clustering of neural bandits is accepted by **KDD 2025 Research Track**. Congratulations to myself on my **first first-author paper**!
-- *2025.03.25*: &nbsp;🎉 Complete Global Study Program at UC Davis and achieve **Academic Perfection**.
-- *2025.02.03*: &nbsp;🎉 A paper about intergrating ad auctions and recommendations is accepted by **WWW 2025**.
-- *2024.12.10*: &nbsp;🎉 Admitted to the Mitacs Globalink Research Internship **full-scholarship** summer research program.
+- *2025.06.16*: &nbsp;🎉 Awarded with the **President Scholarship for Postgraduate Students of Chinese Academy of Sciences (中国科学院院长优秀奖)**!
+- *2025.06.03*: &nbsp;🎉 Awarded with the **Pacemaker to Merit Student of the University of Chinese Academy of Sciences (中国科学院大学三好学生标兵)**!
+- *2025.04.15*: &nbsp;🎉 One paper for hyperspectral anomaly detection has been selected as the **WILEY Top Cited Article**!
+- *2025.03.13*: &nbsp;🎉 One paper for hyperspectral anomaly detection has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
 
 
+# 📖 Educations
+- *2020.09 – 2025.06*: **[Key Laboratory of Computational Optical Imaging
+Technology, Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/)**
+  
+  *- Ph.D. degree in cartography and geography information system, Supervisors: [Lianru Gao](https://people.ucas.ac.cn/~gaolianru) (高连如，国家杰青、国家优青、IET Fellow) & [Lina Zhuang](https://sites.google.com/view/linazhuang/home) (庄丽娜，海外优青、中科院百人计划)*
+
+- *2016.09 – 2020.06*: **[School of Electronics and Information Engineering, Hebei University of Technology](https://eie.hebut.edu.cn/index.htm)**
+  
+  *- B.S. degree in communication engineering*
+
+
+# 💻 Work Experiences
+
+- *2025.07 – Present*: 
+
+  *- Lab: , Supervisor: *
+
+  
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2025</div><img src='../images/SeRe.png' alt="sym" width="100%"></div></div>
+More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl=zh-CN) (470+ citations)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-[Revisiting Clustering of Neural Bandits: Selective Reinitialization for Mitigating Loss of Plasticity](https://dl.acm.org/doi/pdf/10.1145/3696410.3714779?casa_token=8lqAC8Liak8AAAAA:lbsi8gr5tQAQds4gSyTdM3a7Rl43lK1yXwjDzjOtcXOxydg_JQJfvJxQtUKGAPxbZNspu3OlGT5ZcQ)
+BS3LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218.[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
 
-**Zhiyuan Su**, Sunhao Dai, Xiao Zhang
+Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza
 
-- *Accepted at KDD 2025 Research Track (Acceptance Rate: 18.4%)* <span class="rucred">Oral</span>
+- 学生一作, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='../images/TICNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/PDBSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
+  
+PDBSNet: Pixel-Shuffle Downsampling Blind-Spot Reconstruction Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5511914.[[Link](https://ieeexplore.ieee.org/abstract/document/10124448)][[Code](https://github.com/DegangWang97/IEEE_TGRS_PDBSNet)]
 
-[A Context-Aware Framework for Integrating Ad Auctions and Recommendations](https://dl.acm.org/doi/pdf/10.1145/3696410.3714779?casa_token=8lqAC8Liak8AAAAA:lbsi8gr5tQAQds4gSyTdM3a7Rl43lK1yXwjDzjOtcXOxydg_JQJfvJxQtUKGAPxbZNspu3OlGT5ZcQ)
+**Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza
 
-Yuchao Ma, Weian Li, Yuejia Dou, **Zhiyuan Su**, Changyuan Yu, Qi Qi
+- 第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
 
-- *Accepted at WWW 2025 (Acceptance Rate: 20.2%)* <span class="rucred">Poster</span>
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BockNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5531916.[[Link](ieeexplore.ieee.org/abstract/document/10330742)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BockNet)]
+
+**Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza
+
+- 第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../images/DirectNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5504115.[[Link](ieeexplore.ieee.org/abstract/document/10400466)][[Code](https://github.com/DegangWang97/IEEE_TGRS_DirectNet)]
+
+**Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao, Antonio Plaza
+
+- 第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT 2023</div><img src='../images/FTSGAN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detection. CAAI Transactions on Intelligence Technology, 2023, 8(4): 1258-1273.[[Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12154)]
+
+**Degang Wang**, Lianru Gao, Ying Qu, Xu Sun, Wenzhi Liao
+
+- 第一作者, **SCI, IF: 8.4, 中科院1区Top, <span style="color: red;">Wiley 2023年度高被引论文</span>**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='../images/NL2Net.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 6981-6993.[[Link](ieeexplore.ieee.org/document/10890991)][[Code](https://github.com/DegangWang97/IEEE_JSTARS_NL2Net)]
+
+**Degang Wang**, Longfei Ren, Xu Sun, Lianru Gao, Jocelyn Chanussot
+
+- 第一作者, **SCI, IF: 4.7, 中科院2区**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2024</div><img src='../images/PUNNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection. IEEE Geoscience and Remote Sensing Letters, 2024, 21: 5509305.[[Link](ieeexplore.ieee.org/document/10648847)][[Code](https://github.com/DegangWang97/IEEE_GRSL_PUNNet)]
+
+**Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao
+
+- 第一作者, **SCI, IF: 4, 中科院3区**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JIG 2021</div><img src='../images/SNNPPF.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+结合孪生网络和像元配对的高光谱图像异常检测. 中国图象图形学报, 2021, 26(08): 1860-1870.[[Link](https://www.cjig.cn/thesisDetails#10.11834/jig.210073&lang=zh)]
+
+**王德港**, 饶伟强, 孙旭, 渠瀛, 刘雪梅, 高连如
+
+- 第一作者, CSCD, **中国科技期刊提能拓展计划**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSMG 2023</div><img src='../images/RSMG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection. 2023 International Conference on Remote Sensing, Mapping and Geographic Information Systems. SPIE, 2023: 128152E.[[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12815/128152E/Blind-block-reconstruction-network-with-a-guard-window-for-hyperspectral/10.1117/12.3010359.short)]
+
+**Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Ye Liu
+
+- 第一作者, EI
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JAG 2024</div><img src='../images/DSVNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+A Deeply Supervised Vertex Network for Road Network Graph Extraction in High-Resolution Images. International Journal of Applied Earth Observation and Geoinformation. 2024, 133: 104082.[[Link](https://www.sciencedirect.com/science/article/pii/S1569843224004369)]
+
+Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Degang Wang**, Pan Chen
+
+- 第七作者, **SCI, IF: 7.6, 中科院1区Top**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2024</div><img src='../images/LKCMCA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Large-Kernel Central Block Masked Convolution and Channel Attention-Based Reconstruction Network for Anomaly Detection of High-Resolution Hyperspectral Imagery. Remote Sensing. 2024, 16(22): 4125.[[Link](https://www.mdpi.com/2072-4292/16/22/4125)]
+
+Qiong Ran, Hong Zhong, Xu Sun, **Degang Wang**, He Sun
+
+- 第四作者, **SCI, IF: 4.2, 中科院2区**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='../images/SSGIEKFCM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Spatial Sampling and Grouping Information Entropy Strategy Based on Kernel Fuzzy C-Means Clustering Method for Hyperspectral Band Selection. Remote Sensing, 2022, 14(19): 5058.[[Link](https://www.mdpi.com/2072-4292/14/19/5058)]
+
+Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
+
+- 第二作者, **SCI, IF: 4.2, 中科院2区**
 
 </div>
 </div>
 
 
 # 🎖 Honors and Awards
-- *2025.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
-- *2025.01*: &nbsp;💰 Mitacs-CSC Co-sponsored Scholarship – 6,000 CAD
-- *2024.12*: &nbsp;🏆 *National Second Prize*, 19th "Challenge Cup" National Undergraduate Curricular Academic Science and Technology Works
-- *2024.10*: &nbsp;🏆 *Second Prize*, Beijing Mathematical Contest in Modeling
-- *2024.10*: &nbsp;💰 *Second-class* Academic Scholarship – 3,000 CNY
-- *2024.04*: &nbsp;💰 *Municipal Approval* for Student Innovation Project – 7,500 CNY
-- *2024.04*: &nbsp;🎖 Outstanding Communist Youth League Member
-
-# 📖 Educations
-- *2025.01 – 2025.03*: &nbsp;🇺🇸 **Global Study Program, University of California, Davis**
-  
-  *- Major: Mathematics & Statistics, Graduated with Academic Perfection*
-
-- *2022.09 – Present*: &nbsp;🇨🇳 **Gaoling School of Artificial Intelligence, Renmin University of China**
-  
-  *- Bachelor of Engineering in Artificial Intelligence, Supervisors: [Dr. Qi Qi](https://gsai.ruc.edu.cn/qiqi), [Dr. Xiao Zhang](https://pinkfloyd1989.github.io/Xiao_Zhang/)*
-
-
-# 💻 Work Experiences
-
-- *2025.07 – 2025.10*: &nbsp;🇨🇦 *Mitacs Globalink Research Intern & Visiting Research Student*, [Faculty of Computer Science](https://www.dal.ca/faculty/computerscience.html), Dalhousie University
-
-  *- Lab: [Applied Machine Learning Research Lab](https://web.cs.dal.ca/~gaw/), Supervisor: [Dr. Ga Wu](https://wuga214.github.io/)*
-  
-- *2024.11 – Present*: &nbsp;🇨🇳 *Research Intern*, Beijing Key Laboratory of Research on Large Models and Intelligent Governance
-- *2024.05 – 2024.09*: &nbsp;🇨🇳 *Research Intern*, Engineering Research Center of Next-Generation Intelligent Search and Recommendation, MOE
-- *2023.10 – 2024.09*: &nbsp;🇨🇳 *RUC-Baidu Pinecone Talent Elite Project*, [Baidu Inc.](https://home.baidu.com/)
+- *2025*: &nbsp;💰 **中国科学院院长优秀奖** – 5,000 CNY
+- *2025*: &nbsp;🎖 中国科学院大学2024-2025学年三好学生标兵
+- *2025*: &nbsp;🎖 中国科学院空天信息创新研究院优秀学术报告荣誉
+- *2024*: &nbsp;💰 **博士研究生国家奖学金** – 30,000 CNY
+- *2024*: &nbsp;🏆 第八届全国成像光谱对地观测学术研讨会优秀论文奖（序1）
+- *2024*: &nbsp;💰 中国科学院空天信息创新研究院学业奖学金一等奖 – 16,000 CNY
+- *2024*: &nbsp;🏆 第一届山海杯国土空间数字化场景工具创新大赛优秀奖（序7）
+- *2024*: &nbsp;💰 **2024年度中国科学院空天信息创新研究院优秀研究生特等奖学金** – 12,000 CNY
+- *2024*: &nbsp;🎖 中国科学院空天信息创新研究院2023-2024年度优秀共青团员
+- *2023*: &nbsp;🏆 第三届中国图象图形学报研究生学术论坛突出报告奖
+- *2023*: &nbsp;💰 **2023年度中国科学院大学朱李月华奖学金** – 5,000 CNY
+- *2023*: &nbsp;🏆 《遥感学报》研究生学术论坛三等奖
+- *2023*: &nbsp;🏆 国际学术会议RSMG 2023优秀论文奖
+- *2023*: &nbsp;🏆 国际学术会议RSMG 2023最佳口头报告奖
+- *2023*: &nbsp;💰 2023年度中国科学院空天信息创新研究院企业冠名奖学金一等奖 – 5,000 CNY
+- *2022*: &nbsp;💰 中国科学院空天信息创新研究院学业奖学金一等奖 – 15,000 CNY
+- *2022*: &nbsp;🎖 中国科学院大学2021-2022学年三好学生
 
 
-# ⚙️ Services
+# ⚙️ Reviewer
 
-- Artifact badging reviewer, KDD 2025 
-
-
-# 🪽 Beyond Academics
-
-I love **music, literature, travel and badminton**. I am a **campus singer** at Renmin University of China and have been invited to participate in various concerts and music festivals at RUC. I am also a **musician at NetEase Cloud Music**, and my stage name is [艾诺 Ayinor](http://music.163.com/#/artist?id=36180214). Recently, I am also working on my own new song, so stay tuned!
+- IEEE Transactions on Image Processing
+- IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 
+- IEEE Geoscience and Remote Sensing Letters
+- Remote Sensing
+- Journal of Applied Remote Sensing
+- Information Fusion
+- Knowledge-Based Systems
+- Expert Systems with Applications
+- Engineering Applications of Artificial Intelligence
+- Applied Soft Computing
+- Neural Networks
+- Computer Vision and Image Understanding
+- Neurocomputing
+- Measurement
+- Applied Artificial Intelligence
+- Scientific Reports
+- Infrared Physics and Technology
+- Multimedia Systems
+- IET Image Processing
+- The Journal of Supercomputing
+- Journal of Electronic Imaging
+- PLOS One
+- Journal of Circuits, Systems, and Computers
+- Remote Sensing Applications: Society and Environment
+- International Journal of Data Science and Analytics
+- Multimodal Transportation
+- IEEE International Geoscience and Remote Sensing Symposium
 
 
 <div class="logo-row">
-  <img src="../images/ruc_logo.png"      alt="">
-  <img src="../images/ucdavis_logo.png"  alt="">
-  <img src="../images/dal_logo.png"      alt="">
-  <img src="../images/mitacs_logo.png"      alt="">
-  <img src="../images/baidu_logo.png"      alt="">
+  <img src="../images/AIRlogo.png"      alt="">
+  <img src="../images/HEBUTlogo.png"  alt="">
 </div>
 
 
 <footer class="site-footer">
-  <p>&copy; 2025 Zhiyuan Su. All rights reserved.</p>
+  <p>&copy; 2025 Degang Wang. All rights reserved.</p>
   <p>
     Template adapted from
-    <a href="https://github.com/RayeRen/acad-homepage.github.io"
-       target="_blank" rel="noopener">Yi Ren</a>.
+    <a href="https://github.com/zhiyuansu0326/zhiyuansu0326.github.io"
+       target="_blank" rel="noopener">Zhiyuan Su</a>.
   </p>
 </footer>
