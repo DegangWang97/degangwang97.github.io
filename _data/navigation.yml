@@ -6,20 +6,18 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Educations"
+    url: "/#-educations"
+    
+  - title: "Work Experiences"
+    url: "/#-work-experiences"
+    
   - title: "Publications"
     url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Educations"
-    url: "/#-educations"
 
-  - title: "Work Experiences"
-    url: "/#-work-experiences"
-
-  - title: "Services"
-    url: "/#-services"
-
-  - title: "Beyond Academics"
-    url: "/#-beyond-academics"
+  - title: "Reviewer"
+    url: "/#-reviewer"
