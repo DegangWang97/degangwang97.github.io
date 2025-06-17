@@ -266,7 +266,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - *2022*: &nbsp;🎖 中国科学院大学2021-2022学年三好学生
 
 
-# 💻 Reviewer
+# 🌏 Reviewer
 
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Geoscience and Remote Sensing
