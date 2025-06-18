@@ -108,7 +108,7 @@ BS3LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Ano
 
 Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza
 
-- 学生一作, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
+- 学生一作, **SCI, IF: 8.6, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
 
 </div>
 </div>
@@ -120,7 +120,7 @@ PDBSNet: Pixel-Shuffle Downsampling Blind-Spot Reconstruction Network for Hypers
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza
 
-- 第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
+- 第一作者, **SCI, IF: 8.6, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
 
 </div>
 </div>
@@ -132,7 +132,7 @@ BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectra
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza
 
-- 第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
+- 第一作者, **SCI, IF: 8.6, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
 
 </div>
 </div>
@@ -144,7 +144,7 @@ Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly De
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao, Antonio Plaza
 
-- 第一作者, **SCI, IF: 7.5, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
+- 第一作者, **SCI, IF: 8.6, 中科院1区Top, <span style="color: red;">ESI 高被引论文</span>**
 
 </div>
 </div>
@@ -156,7 +156,7 @@ Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detec
 
 **Degang Wang**, Lianru Gao, Ying Qu, Xu Sun, Wenzhi Liao
 
-- 第一作者, **SCI, IF: 8.4, 中科院1区Top, <span style="color: red;">Wiley 2023年度高被引论文</span>**
+- 第一作者, **SCI, IF: 7.3, 中科院1区Top, <span style="color: red;">Wiley 2023年度高被引论文</span>**
 
 </div>
 </div>
@@ -168,7 +168,7 @@ Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral An
 
 **Degang Wang**, Longfei Ren, Xu Sun, Lianru Gao, Jocelyn Chanussot
 
-- 第一作者, **SCI, IF: 4.7, 中科院2区**
+- 第一作者, **SCI, IF: 5.3, 中科院2区**
 
 </div>
 </div>
@@ -180,7 +180,7 @@ Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection. 
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao
 
-- 第一作者, **SCI, IF: 4, 中科院3区**
+- 第一作者, **SCI, IF: 4.4, 中科院3区**
 
 </div>
 </div>
@@ -216,7 +216,7 @@ A Deeply Supervised Vertex Network for Road Network Graph Extraction in High-Res
 
 Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Degang Wang**, Pan Chen
 
-- 第七作者, **SCI, IF: 7.6, 中科院1区Top**
+- 第七作者, **SCI, IF: 8.6, 中科院1区Top**
 
 </div>
 </div>
@@ -228,7 +228,7 @@ Large-Kernel Central Block Masked Convolution and Channel Attention-Based Recons
 
 Qiong Ran, Hong Zhong, Xu Sun, **Degang Wang**, He Sun
 
-- 第四作者, **SCI, IF: 4.2, 中科院2区**
+- 第四作者, **SCI, IF: 4.1, 中科院2区**
 
 </div>
 </div>
@@ -240,7 +240,7 @@ Spatial Sampling and Grouping Information Entropy Strategy Based on Kernel Fuzzy
 
 Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 
-- 第二作者, **SCI, IF: 4.2, 中科院2区**
+- 第二作者, **SCI, IF: 4.1, 中科院2区**
 
 </div>
 </div>
@@ -312,8 +312,3 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
        target="_blank" rel="noopener">Zhiyuan Su</a>.
   </p>
 </footer>
-
-<!-- Simplified 2D visitor map -->
-<div style="text-align: center; margin-top: 20px;">
-  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54e0ojatafc&m=0&c=ff0000&cr1=ffffff&f=arial&l=0&hi=30&he=10&hc=000000" async="async"></script>
-</div>
