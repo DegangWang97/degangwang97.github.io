@@ -246,16 +246,16 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 </div>
 
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
 - *2025*: &nbsp;💰 **中国科学院院长优秀奖** – 5,000 CNY
-- *2025*: &nbsp;🎖 中国科学院大学2024-2025学年三好学生标兵
-- *2025*: &nbsp;🎖 中国科学院空天信息创新研究院优秀学术报告荣誉
+- *2025*: &nbsp;🏅 中国科学院大学2024-2025学年三好学生标兵
+- *2025*: &nbsp;🏅 中国科学院空天信息创新研究院优秀学术报告荣誉
 - *2024*: &nbsp;💰 **博士研究生国家奖学金** – 30,000 CNY
 - *2024*: &nbsp;🏆 第八届全国成像光谱对地观测学术研讨会优秀论文奖（序1）
 - *2024*: &nbsp;💰 中国科学院空天信息创新研究院学业奖学金一等奖 – 16,000 CNY
 - *2024*: &nbsp;🏆 第一届山海杯国土空间数字化场景工具创新大赛优秀奖（序7）
 - *2024*: &nbsp;💰 **2024年度中国科学院空天信息创新研究院优秀研究生特等奖学金** – 12,000 CNY
-- *2024*: &nbsp;🎖 中国科学院空天信息创新研究院2023-2024年度优秀共青团员
+- *2024*: &nbsp;🏅 中国科学院空天信息创新研究院2023-2024年度优秀共青团员
 - *2023*: &nbsp;🏆 第三届中国图象图形学报研究生学术论坛突出报告奖
 - *2023*: &nbsp;💰 **2023年度中国科学院大学朱李月华奖学金** – 5,000 CNY
 - *2023*: &nbsp;🏆 《遥感学报》研究生学术论坛三等奖
@@ -263,10 +263,10 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - *2023*: &nbsp;🏆 国际学术会议RSMG 2023最佳口头报告奖
 - *2023*: &nbsp;💰 2023年度中国科学院空天信息创新研究院企业冠名奖学金一等奖 – 5,000 CNY
 - *2022*: &nbsp;💰 中国科学院空天信息创新研究院学业奖学金一等奖 – 15,000 CNY
-- *2022*: &nbsp;🎖 中国科学院大学2021-2022学年三好学生
+- *2022*: &nbsp;🏅 中国科学院大学2021-2022学年三好学生
 
 
-# 🌏 Reviewer
+# 📃 Reviewer
 
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Geoscience and Remote Sensing
@@ -303,6 +303,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
   <img src="../images/HEBUTlogo.png"  alt="">
 </div>
 
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 <footer class="site-footer">
   <p>&copy; 2025 Degang Wang. All rights reserved.</p>
