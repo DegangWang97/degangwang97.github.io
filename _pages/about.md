@@ -303,7 +303,6 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
   <img src="../images/HEBUTlogo.png"  alt="">
 </div>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
 
 <footer class="site-footer">
   <p>&copy; 2025 Degang Wang. All rights reserved.</p>
@@ -313,3 +312,8 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
        target="_blank" rel="noopener">Zhiyuan Su</a>.
   </p>
 </footer>
+
+<!-- Simplified 2D visitor map -->
+<div style="text-align: center; margin-top: 20px;">
+  <script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=54e0ojatafc&m=0&c=ff0000&cr1=ffffff&f=arial&l=0&hi=30&he=10&hc=000000" async="async"></script>
+</div>
