@@ -286,6 +286,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - Applied Artificial Intelligence
 - Scientific Reports
 - Infrared Physics and Technology
+- Pattern Recognition Letters
 - Multimedia Systems
 - IET Image Processing
 - The Journal of Supercomputing
