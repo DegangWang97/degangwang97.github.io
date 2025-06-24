@@ -65,9 +65,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a fifth-year direct PhD student at the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/). His research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 12 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 4 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 20 SCI journals, including IEEE TIP, IEEE TGRS, IEEE JSTARS, IEEE GRSL, IF, NN, ESWA, KBS, and EAAI. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
+I will receive my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and join [Beijing Forestry University](https://www.bjfu.edu.cn/). My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 12 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 4 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 20 SCI journals, including IEEE TIP, IEEE TGRS, IEEE JSTARS, IEEE GRSL, IF, NN, ESWA, KBS, and EAAI. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
 
-王德港，1997年生，河北张家口人，[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)直博五年级在读。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文12篇，其中，以第一作者身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇（4篇入选ESI高被引论文，1篇入选Wiley 2023年度高被引论文），EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TIP、IEEE TGRS、IEEE JSTARS、IEEE GRSL、IF、NN、ESWA、KBS、EAAI等20多个国际知名SCI期刊独立审稿人。先后获中国科学院院长优秀奖、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖、中国科学院空天信息创新研究院一等学业奖学金、中国科学院空天信息创新研究院优秀共青团员等荣誉奖励。
+王德港，1997年生，河北张家口人，将于2025年6月29日在[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学](https://www.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文12篇，其中，以第一作者身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇（4篇入选ESI高被引论文，1篇入选Wiley 2023年度高被引论文），EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TIP、IEEE TGRS、IEEE JSTARS、IEEE GRSL、IF、NN、ESWA、KBS、EAAI等20多个国际知名SCI期刊独立审稿人。先后获中国科学院院长优秀奖、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖、中国科学院空天信息创新研究院一等学业奖学金、中国科学院空天信息创新研究院优秀共青团员等荣誉奖励。
 
 - Email: wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
 - WeChat: [Together0908o_o](./images/WeChat.png)
@@ -304,6 +304,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 <a href="https://info.flagcounter.com/UNJ8"><img src="https://s01.flagcounter.com/map/UNJ8/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <div class="logo-row">
+  <img src="../images/BJFUlogo.png"      alt="">
   <img src="../images/AIRlogo.png"      alt="">
   <img src="../images/HEBUTlogo.png"  alt="">
 </div>
