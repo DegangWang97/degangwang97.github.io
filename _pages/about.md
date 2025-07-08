@@ -74,6 +74,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 
 # 🔥 News
+- *2025.07.08*: &nbsp;🎉 One paper for hyperspectral anomaly detection has been accepted by IEEE TGRS!
 - *2025.06.29*: &nbsp;🎉 Received Ph.D. degree from the Aerospace Information Research Institute, Chinese Academy of Sciences!
 - *2025.06.16*: &nbsp;🎉 Awarded with the **President Scholarship for Postgraduate Students of Chinese Academy of Sciences (中国科学院院长优秀奖)**!
 - *2025.06.03*: &nbsp;🎉 Awarded with the **Pacemaker to Merit Student of the University of Chinese Academy of Sciences (中国科学院大学三好学生标兵)**!
@@ -94,7 +95,7 @@ Technology, Aerospace Information Research Institute, Chinese Academy of Science
 
 # 💻 Work Experiences
 
-- *2025.07 – Present*: 
+- *2025.09 – Present*: 
 
   *- Lab: , Supervisor: *
 
