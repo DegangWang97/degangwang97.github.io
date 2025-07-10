@@ -297,6 +297,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - Journal of Circuits, Systems, and Computers
 - PeerJ Computer Science
 - Signal, Image and Video Processing
+- Journal of Real-Time Image Processing
 - Remote Sensing Applications: Society and Environment
 - International Journal of Data Science and Analytics
 - Multimodal Transportation
