@@ -103,7 +103,7 @@ Technology, Aerospace Information Research Institute, Chinese Academy of Science
 
   
 # 📝 Publications
-More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl=zh-CN) (470+ citations)
+More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (500+ citations)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
