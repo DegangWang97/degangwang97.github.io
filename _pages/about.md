@@ -65,11 +65,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and will join [Beijing Forestry University](https://www.bjfu.edu.cn/). My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 15 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 4 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 20 SCI journals, including IEEE TIP, IEEE TGRS, IEEE JSTARS, IEEE GRSL, IF, NN, ESWA, KBS, and EAAI. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
+I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/). My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 15 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 4 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 20 SCI journals, including IEEE TIP, IEEE TGRS, IEEE JSTARS, IEEE GRSL, IF, NN, ESWA, KBS, and EAAI. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
 
-王德港，1997年生，河北张家口人，于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并即将入职[北京林业大学](https://www.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文15篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇（4篇入选ESI高被引论文，1篇入选Wiley 2023年度高被引论文），EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TIP、IEEE TGRS、IEEE JSTARS、IEEE GRSL、IF、NN、ESWA、KBS、EAAI等20多个国际知名SCI期刊独立审稿人。先后获中国科学院院长优秀奖、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖、中国科学院空天信息创新研究院一等学业奖学金、中国科学院空天信息创新研究院优秀共青团员等荣誉奖励。
+王德港，1997年生，河北张家口人，于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文15篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇（4篇入选ESI高被引论文，1篇入选Wiley 2023年度高被引论文），EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TIP、IEEE TGRS、IEEE JSTARS、IEEE GRSL、IF、NN、ESWA、KBS、EAAI等20多个国际知名SCI期刊独立审稿人。先后获中国科学院院长优秀奖、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖、中国科学院空天信息创新研究院一等学业奖学金、中国科学院空天信息创新研究院优秀共青团员等荣誉奖励。
 
-- Email: wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
+- Email: wangdegang@bjfu.edu.cn, wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
 - WeChat: [Together0908o_o](./images/WeChat.png)
 
 
@@ -97,13 +97,13 @@ Technology, Aerospace Information Research Institute, Chinese Academy of Science
 
 # 💻 Work Experiences
 
-- *2025.09 – Present*: 
+- *2025.09 – Present*: Lecturer and Postdoc **[School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/)**
 
-  *- Lab: , Supervisor: *
+  *- Lab: Pioneer Team of Intelligent Forestry, Supervisor: [Junguo Zhang](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/bssds/z/405254.html) (张军国，国家林草局第五批国家林草科技创新团队负责人)*
 
   
 # 📝 Publications
-More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (500+ citations)
+More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (530+ citations)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -276,11 +276,13 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - IEEE Transactions on Geoscience and Remote Sensing
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 
 - IEEE Geoscience and Remote Sensing Letters
+- IEEE Access
 - Remote Sensing
 - Journal of Applied Remote Sensing
 - Information Fusion
 - Knowledge-Based Systems
 - Expert Systems with Applications
+- Information Processing and Management
 - Engineering Applications of Artificial Intelligence
 - Applied Soft Computing
 - Neural Networks
@@ -309,9 +311,11 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 <a href="https://info.flagcounter.com/UNJ8"><img src="https://s01.flagcounter.com/map/UNJ8/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 
 <div class="logo-row">
-  <img src="../images/BJFUlogo.png"      alt="">
-  <img src="../images/AIRlogo.png"      alt="">
-  <img src="../images/HEBUTlogo.png"  alt="">
+  <img src="../images/PTIFlogo.png"    alt="">
+  <img src="../images/STBJFUlogo.png"  alt="">
+  <img src="../images/BJFUlogo.png"    alt="">
+  <img src="../images/AIRlogo.png"     alt="">
+  <img src="../images/HEBUTlogo.png"   alt="">
 </div>
 
 
