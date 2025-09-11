@@ -173,7 +173,7 @@ Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral An
 
 **Degang Wang**, Longfei Ren, Xu Sun, Lianru Gao, Jocelyn Chanussot
 
-- 第一作者, **SCI, IF: 5.3, 中科院2区**
+- 第一作者, **SCI, IF: 5.3, 中科院2区, <span style="color: red;">ESI 高被引论文</span>**
 
 </div>
 </div>
