@@ -104,7 +104,7 @@ Technology, Aerospace Information Research Institute, Chinese Academy of Science
 
   
 # 📝 Publications
-More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (530+ citations)
+More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (540+ citations)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -279,6 +279,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - IEEE Transactions on Computational Imaging
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 
 - IEEE Geoscience and Remote Sensing Letters
+- IEEE Sensors Journal
 - IEEE Access
 - Remote Sensing
 - Journal of Applied Remote Sensing
