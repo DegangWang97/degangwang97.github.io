@@ -74,9 +74,9 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 
 # 🔥 News
-- *2025.10.24*: &nbsp;🎉 Our paper entitled "Similar Category Enhancement Network for Discrimination on Small Object Detection" has been accepted by IEEE TGRS!
+- *2025.10.24*: &nbsp;🎉 Our paper entitled "[Similar Category Enhancement Network for Discrimination on Small Object Detection](https://ieeexplore.ieee.org/document/11223957)" has been accepted by IEEE TGRS!
 - *2025.10.01*: &nbsp;🎉 Our paper entitled "[HADDNLP: Hyperspectral Anomaly Detection via Double Nonlocal Priors](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011987)" has been accepted by Pattern Recognition!
-- *2025.09.11*: &nbsp;🎉 Our paper entitled "[Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection](ieeexplore.ieee.org/document/10890991)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
+- *2025.09.11*: &nbsp;🎉 Our paper entitled "[Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/document/10890991)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
 - *2025.07.22*: &nbsp;🎉 Our paper entitled "[A multi-angle spectral curve inversion model based on BRDF](https://journal26.magtechjournal.com/kjkxjs/CN/10.16708/j.cnki.1000-758X.2025.0056)" is published online by Chinese Space Science and Technology (ESCI, IF: 0.9, 中科院3区)!
 - *2025.07.22*: &nbsp;🎉 Our paper entitled "[Continuous Tensor Representation for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/document/11098802)" has been accepted by IEEE TGRS!
 - *2025.07.08*: &nbsp;🎉 Our paper entitled "[Nonlocal and Deep Priors for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/document/11097327)" has been accepted by IEEE TGRS!
@@ -84,7 +84,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 - *2025.06.16*: &nbsp;🎉 Awarded with the **President Scholarship for Postgraduate Students of Chinese Academy of Sciences (中国科学院院长优秀奖)**!
 - *2025.06.03*: &nbsp;🎉 Awarded with the **Pacemaker to Merit Student of the University of Chinese Academy of Sciences (中国科学院大学三好学生标兵)**!
 - *2025.04.15*: &nbsp;🎉 Our paper entitled "[Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detection](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12154)" has been selected as the **WILEY Top Cited Article**!
-- *2025.03.13*: &nbsp;🎉 Our paper entitled "[BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection](ieeexplore.ieee.org/abstract/document/10330742)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
+- *2025.03.13*: &nbsp;🎉 Our paper entitled "[BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/abstract/document/10330742)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
 
 
 # 📖 Educations
@@ -106,7 +106,7 @@ Technology, Aerospace Information Research Institute, Chinese Academy of Science
 
   
 # 📝 Publications
-More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (580+ citations)
+More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (620+ citations)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -135,7 +135,7 @@ PDBSNet: Pixel-Shuffle Downsampling Blind-Spot Reconstruction Network for Hypers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BockNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5531916.[[Link](ieeexplore.ieee.org/abstract/document/10330742)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BockNet)]
+BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5531916.[[Link](https://ieeexplore.ieee.org/abstract/document/10330742)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BockNet)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza
 
@@ -147,7 +147,7 @@ BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectra
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../images/DirectNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5504115.[[Link](ieeexplore.ieee.org/abstract/document/10400466)][[Code](https://github.com/DegangWang97/IEEE_TGRS_DirectNet)]
+Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5504115.[[Link](https://ieeexplore.ieee.org/abstract/document/10400466)][[Code](https://github.com/DegangWang97/IEEE_TGRS_DirectNet)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao, Antonio Plaza
 
@@ -183,7 +183,7 @@ Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral An
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2024</div><img src='../images/PUNNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection. IEEE Geoscience and Remote Sensing Letters, 2024, 21: 5509305.[[Link](ieeexplore.ieee.org/document/10648847)][[Code](https://github.com/DegangWang97/IEEE_GRSL_PUNNet)]
+Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection. IEEE Geoscience and Remote Sensing Letters, 2024, 21: 5509305.[[Link](https://ieeexplore.ieee.org/document/10648847)][[Code](https://github.com/DegangWang97/IEEE_GRSL_PUNNet)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao
 
@@ -287,6 +287,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - Remote Sensing
 - Journal of Applied Remote Sensing
 - Information Fusion
+- Computers and Electronics in Agriculture
 - Knowledge-Based Systems
 - Expert Systems with Applications
 - Information Processing and Management
