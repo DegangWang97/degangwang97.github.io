@@ -67,7 +67,7 @@ redirect_from:
 
 I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 17 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 5 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 30 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TCI/IoT-J/JSTARS, IF, COMPAG, ESWA, KBS, and EAAI. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
 
-王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文17篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文5篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TCI/IoT-J/JSTARS、IF、COMPAG、ESWA、KBS、EAAI等30多个国际知名SCI期刊独立审稿人。先后获中国科学院院长优秀奖、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖、中国科学院空天信息创新研究院一等学业奖学金、中国科学院空天信息创新研究院优秀共青团员等荣誉奖励。
+王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文17篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文5篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TCI/IoT-J/JSTARS、IF、COMPAG、ESWA、KBS、EAAI等30多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
 
 - Email: wangdegang@bjfu.edu.cn, wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
 - WeChat: [Together0908o_o](./images/WeChat.png)
@@ -102,16 +102,19 @@ Technology, Aerospace Information Research Institute, Chinese Academy of Science
 
 - *2025.09 – Present*: Lecturer and Postdoc **[School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/)**
 
-  *- Lab: Pioneer Team of Intelligent Forestry, Supervisor: [Junguo Zhang](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/bssds/z/405254.html) (张军国，国家林草局第五批国家林草科技创新团队负责人)*
+  *- Lab: Pioneer Team of Intelligent Forestry, Supervisor: [Junguo Zhang](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/bssds/z/405254.html) (张军国，国家林草局第五批国家林草科技创新团队负责人，工学院副院长)*
 
   
 # 📝 Publications
-More papers info., please visit: [Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl) (600+ citations)
+More papers information, please visit: [My Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
+
+[![Citations](https://img.shields.io/badge/Citations-620%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
+[![ESI Highly Cited Papers](https://img.shields.io/badge/ESI_Highly_Cited_Papers-5%2B-FF6B6B?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-BS3LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218.[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
+BS^3^LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218.[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
 
 Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza
 
