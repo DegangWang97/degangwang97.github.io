@@ -114,7 +114,7 @@ More papers information, please visit: [My Google Scholar Profile](https://schol
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-BS^3^LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218.[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
+BS3LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218.[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
 
 Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza
 
