@@ -65,9 +65,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 17 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 5 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 30 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TCI/IoT-J/JSTARS, IF, COMPAG, ESWA, KBS, and EAAI. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
+I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 17 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 5 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 30 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/IoT-J/JSTARS, IF, COMPAG, ESWA, KBS, and EAAI. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
 
-王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文17篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文5篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TCI/IoT-J/JSTARS、IF、COMPAG、ESWA、KBS、EAAI等30多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
+王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)，硕士生导师。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文17篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文5篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/IoT-J/JSTARS、IF、COMPAG、ESWA、KBS、EAAI等30多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
 
 - Email: wangdegang@bjfu.edu.cn, wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
 - WeChat: [Together0908o_o](./images/WeChat.png)
@@ -88,8 +88,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 
 # 📖 Educations
-- *2020.09 – 2025.06*: **[Key Laboratory of Computational Optical Imaging
-Technology, Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/)**
+- *2020.09 – 2025.06*: **[Key Laboratory of Computational Optical Imaging Technology, Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/)**
   
   *- Ph.D. degree in cartography and geography information system, Supervisors: [Lianru Gao](https://people.ucas.ac.cn/~gaolianru) (高连如，国家杰青、国家优青、IET Fellow) & [Lina Zhuang](https://sites.google.com/view/linazhuang/home) (庄丽娜，海外优青、中科院百人计划)*
 
@@ -114,7 +113,7 @@ More papers information, please visit: [My Google Scholar Profile](https://schol
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-BS3LNet: A New Blind-Spot Self-Supervised Learning Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5504218.[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
+BS3LNet: A new blind-spot self-supervised learning network for hyperspectral anomaly detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61(5504218): 1-18.[[Link](https://ieeexplore.ieee.org/abstract/document/10049187)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BS3LNet)]
 
 Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza
 
@@ -126,7 +125,7 @@ Lianru Gao, **Degang Wang**, Lina Zhuang, Xu Sun, Min Huang, Antonio Plaza
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/PDBSNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-PDBSNet: Pixel-Shuffle Downsampling Blind-Spot Reconstruction Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5511914.[[Link](https://ieeexplore.ieee.org/abstract/document/10124448)][[Code](https://github.com/DegangWang97/IEEE_TGRS_PDBSNet)]
+PDBSNet: Pixel-shuffle downsampling blind-spot reconstruction network for hyperspectral anomaly detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61(5511914): 1-14.[[Link](https://ieeexplore.ieee.org/abstract/document/10124448)][[Code](https://github.com/DegangWang97/IEEE_TGRS_PDBSNet)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza
 
@@ -138,7 +137,7 @@ PDBSNet: Pixel-Shuffle Downsampling Blind-Spot Reconstruction Network for Hypers
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BockNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61: 5531916.[[Link](https://ieeexplore.ieee.org/abstract/document/10330742)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BockNet)]
+BockNet: Blind-block reconstruction network with a guard window for hyperspectral anomaly detection. IEEE Transactions on Geoscience and Remote Sensing, 2023, 61(5531916): 1-16.[[Link](https://ieeexplore.ieee.org/abstract/document/10330742)][[Code](https://github.com/DegangWang97/IEEE_TGRS_BockNet)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Min Huang, Antonio Plaza
 
@@ -150,7 +149,7 @@ BockNet: Blind-Block Reconstruction Network with a Guard Window for Hyperspectra
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2024</div><img src='../images/DirectNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly Detection. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62: 5504115.[[Link](https://ieeexplore.ieee.org/abstract/document/10400466)][[Code](https://github.com/DegangWang97/IEEE_TGRS_DirectNet)]
+Sliding dual-window-inspired reconstruction network for hyperspectral anomaly detection. IEEE Transactions on Geoscience and Remote Sensing, 2024, 62(5504115): 1-15.[[Link](https://ieeexplore.ieee.org/abstract/document/10400466)][[Code](https://github.com/DegangWang97/IEEE_TGRS_DirectNet)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao, Antonio Plaza
 
@@ -162,7 +161,7 @@ Sliding Dual-Window-Inspired Reconstruction Network for Hyperspectral Anomaly De
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CAAI TRIT 2023</div><img src='../images/FTSGAN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detection. CAAI Transactions on Intelligence Technology, 2023, 8(4): 1258-1273.[[Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12154)]
+Frequency-to-spectrum mapping GAN for semisupervised hyperspectral anomaly detection. CAAI Transactions on Intelligence Technology, 2023, 8(4): 1258-1273.[[Link](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12154)]
 
 **Degang Wang**, Lianru Gao, Ying Qu, Xu Sun, Wenzhi Liao
 
@@ -174,7 +173,7 @@ Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detec
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSTARS 2025</div><img src='../images/NL2Net.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 6981-6993.[[Link](ieeexplore.ieee.org/document/10890991)][[Code](https://github.com/DegangWang97/IEEE_JSTARS_NL2Net)]
+Non-local and local feature-coupled self-supervised network for hyperspectral anomaly detection. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 2025, 18: 6981-6993.[[Link](ieeexplore.ieee.org/document/10890991)][[Code](https://github.com/DegangWang97/IEEE_JSTARS_NL2Net)]
 
 **Degang Wang**, Longfei Ren, Xu Sun, Lianru Gao, Jocelyn Chanussot
 
@@ -186,7 +185,7 @@ Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral An
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">GRSL 2024</div><img src='../images/PUNNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection. IEEE Geoscience and Remote Sensing Letters, 2024, 21: 5509305.[[Link](https://ieeexplore.ieee.org/document/10648847)][[Code](https://github.com/DegangWang97/IEEE_GRSL_PUNNet)]
+Global feature-injected blind-spot network for hyperspectral anomaly detection. IEEE Geoscience and Remote Sensing Letters, 2024, 21(5509305): 1-5.[[Link](https://ieeexplore.ieee.org/document/10648847)][[Code](https://github.com/DegangWang97/IEEE_GRSL_PUNNet)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Xiaobin Zhao
 
@@ -210,11 +209,59 @@ Global Feature-Injected Blind-Spot Network for Hyperspectral Anomaly Detection. 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSMG 2023</div><img src='../images/RSMG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
-Blind-Block Reconstruction Network with a Guard Window for Hyperspectral Anomaly Detection. 2023 International Conference on Remote Sensing, Mapping and Geographic Information Systems. SPIE, 2023: 128152E.[[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12815/128152E/Blind-block-reconstruction-network-with-a-guard-window-for-hyperspectral/10.1117/12.3010359.short)]
+Blind-block reconstruction network with a guard window for hyperspectral anomaly detection. 2023 International Conference on Remote Sensing, Mapping and Geographic Information Systems. SPIE, 2023: 128152E.[[Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12815/128152E/Blind-block-reconstruction-network-with-a-guard-window-for-hyperspectral/10.1117/12.3010359.short)]
 
 **Degang Wang**, Lina Zhuang, Lianru Gao, Xu Sun, Ye Liu
 
 - 第一作者, EI
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2026</div><img src='../images/HADDNLP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+HADDNLP: Hyperspectral anomaly detection via double nonlocal priors. Pattern Recognition, 2026, 172: 112535.[[Link](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011987)]
+
+Longfei Ren, **Degang Wang**, Lianru Gao, Minghua Wang, Min Huang, Hongsheng Zhang
+
+- 第二作者, **SCI, IF: 7.6, 中科院1区Top**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/HLDPHAD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Nonlocal and deep priors for hyperspectral anomaly detection. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63(5520415): 1-15.[[Link](https://ieeexplore.ieee.org/document/11097327)]
+
+Longfei Ren, **Degang Wang**, Lianru Gao, Minghua Wang, Min Huang
+
+- 第二作者, **SCI, IF: 8.6, 中科院1区Top**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/CBAR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Continuous tensor representation for hyperspectral anomaly detection. IEEE Transactions on Geoscience and Remote Sensing, 2025, 63(5520515): 1-15.[[Link](https://ieeexplore.ieee.org/document/11098802)]
+
+Yiming Zeng, Xi-Le Zhao, Teng-Yu Ji, Wei-Hao Wu, **Degang Wang**, Lina Zhuang
+
+- 第五作者, **SCI, IF: 8.6, 中科院1区Top**
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2025</div><img src='../images/SCENet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+Similar category enhancement network for discrimination on small object detection. IEEE Transactions on Geoscience and Remote Sensing, 2025: 1-18.[[Link](https://ieeexplore.ieee.org/document/11223957)]
+
+Ziji Wei, Tianwei Zhang, Xu Sun, Lina Zhuang, **Degang Wang**, Andrea Marinoni, Lianru Gao
+
+- 第五作者, **SCI, IF: 8.6, 中科院1区Top**
 
 </div>
 </div>
@@ -230,31 +277,6 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2024</div><img src='../images/LKCMCA.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Large-Kernel Central Block Masked Convolution and Channel Attention-Based Reconstruction Network for Anomaly Detection of High-Resolution Hyperspectral Imagery. Remote Sensing. 2024, 16(22): 4125.[[Link](https://www.mdpi.com/2072-4292/16/22/4125)]
-
-Qiong Ran, Hong Zhong, Xu Sun, **Degang Wang**, He Sun
-
-- 第四作者, **SCI, IF: 4.1, 中科院2区**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RS 2022</div><img src='../images/SSGIEKFCM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-  
-Spatial Sampling and Grouping Information Entropy Strategy Based on Kernel Fuzzy C-Means Clustering Method for Hyperspectral Band Selection. Remote Sensing, 2022, 14(19): 5058.[[Link](https://www.mdpi.com/2072-4292/14/19/5058)]
-
-Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
-
-- 第二作者, **SCI, IF: 4.1, 中科院2区**
-
-</div>
-</div>
-
 
 # 🏅 Honors and Awards
 - *2025*: &nbsp;💰 **中国科学院院长优秀奖** – 5,000 CNY
@@ -282,6 +304,7 @@ Zhou Zhang, **Degang Wang**, Xu Sun, Lina Zhuang, Rong Liu, Li Ni
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Transactions on Aerospace and Electronic Systems
 - IEEE Transactions on Computational Imaging
 - IEEE Internet of Things Journal
 - IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing 
