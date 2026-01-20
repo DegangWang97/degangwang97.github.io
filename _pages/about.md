@@ -69,6 +69,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)，硕士生导师。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文17篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文5篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/TSIPN/IoT-J/JSTARS、INFFUS、COMPAG、ESWA、KBS、EAAI等40多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
 
+- Personal Website: [北京林业大学工学院个人主页](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/sssds/w_20200225164517660707/ddbdcf14e26342be82c1e0ffe022e0d5.html)
 - Email: wangdegang@bjfu.edu.cn, wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
 - WeChat: [Together0908o_o](./images/WeChat.png)
 
@@ -101,7 +102,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 - *2025.09 – Present*: Lecturer and Postdoc **[School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/)**
 
-  *- Lab: Pioneer Team of Intelligent Forestry, Supervisor: [Junguo Zhang](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/bssds/z/405254.html) (张军国，国家林草局第五批国家林草科技创新团队负责人，工学院副院长)*
+  *- Lab: Pioneer Team of Intelligent Forestry, Supervisor: [Junguo Zhang](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/bssds/z/3fd4dd9eb36541fabe0d4eb1d22e1000.html) (张军国，国家林草局第五批国家林草科技创新团队负责人，工学院副院长)*
 
   
 # 📝 Publications
