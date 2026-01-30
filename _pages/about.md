@@ -108,7 +108,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 # 📝 Publications
 More papers information, please visit: [My Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
-[![Citations](https://img.shields.io/badge/Citations-600%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
+[![Citations](https://img.shields.io/badge/Citations-700%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
 [![ESI Highly Cited Papers](https://img.shields.io/badge/ESI_Highly_Cited_Papers-5%2B-FF6B6B?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
@@ -342,6 +342,7 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 - PeerJ Computer Science
 - Signal, Image and Video Processing
 - Digital Signal Processing
+- Discover Computing
 - Journal of Real-Time Image Processing
 - Computers and Electrical Engineering
 - Remote Sensing Applications: Society and Environment
@@ -362,7 +363,7 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 
 
 <footer class="site-footer">
-  <p>&copy; 2025 Degang Wang. All rights reserved.</p>
+  <p>&copy; 2026 Degang Wang. All rights reserved.</p>
   <p>
     Template adapted from
     <a href="https://github.com/zhiyuansu0326/zhiyuansu0326.github.io"
