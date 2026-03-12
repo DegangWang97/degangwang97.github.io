@@ -65,9 +65,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 17 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 5 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 40 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/TSIPN/IoT-J/JSTARS, PR, INFFUS, COMPAG, ESWA, KBS, and EAAI, etc. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
+I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 19 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 6 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 40 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/TSIPN/IoT-J/JSTARS, PR, INFFUS, COMPAG, ESWA, KBS, and EAAI, etc. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
 
-王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)，硕士生导师。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文17篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并申请国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文5篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/TSIPN/IoT-J/JSTARS、PR、INFFUS、COMPAG、ESWA、KBS、EAAI等40多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
+王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)，硕士生导师。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文19篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并授权国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文6篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/TSIPN/IoT-J/JSTARS、PR、INFFUS、COMPAG、ESWA、KBS、EAAI等40多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
 
 - Personal Website: [北京林业大学工学院个人主页](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/sssds/w_20200225164517660707/ddbdcf14e26342be82c1e0ffe022e0d5.html)
 - Email: wangdegang@bjfu.edu.cn, wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
@@ -75,6 +75,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 
 # 🔥 News
+- *2026.03.12*: &nbsp;🎉 Our paper entitled "[Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detection](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12154)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
 - *2025.10.24*: &nbsp;🎉 Our paper entitled "[Similar Category Enhancement Network for Discrimination on Small Object Detection](https://ieeexplore.ieee.org/document/11223957)" has been accepted by IEEE TGRS!
 - *2025.10.01*: &nbsp;🎉 Our paper entitled "[HADDNLP: Hyperspectral Anomaly Detection via Double Nonlocal Priors](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011987)" has been accepted by Pattern Recognition!
 - *2025.09.11*: &nbsp;🎉 Our paper entitled "[Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/document/10890991)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
@@ -109,7 +110,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 More papers information, please visit: [My Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
 [![Citations](https://img.shields.io/badge/Citations-770%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
-[![ESI Highly Cited Papers](https://img.shields.io/badge/ESI_Highly_Cited_Papers-5%2B-FF6B6B?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
+[![ESI Highly Cited Papers](https://img.shields.io/badge/ESI_Highly_Cited_Papers-6%2B-FF6B6B?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -166,7 +167,7 @@ Frequency-to-spectrum mapping GAN for semisupervised hyperspectral anomaly detec
 
 **Degang Wang**, Lianru Gao, Ying Qu, Xu Sun, Wenzhi Liao
 
-- 第一作者, **SCI, IF: 7.3, 中科院1区Top, <span style="color: red;">Wiley 2023年度高被引论文</span>**
+- 第一作者, **SCI, IF: 7.3, 中科院1区Top, <span style="color: red;">Wiley 2023年度高被引论文，ESI 高被引论文</span>**
 
 </div>
 </div>
