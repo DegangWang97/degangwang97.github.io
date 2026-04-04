@@ -76,6 +76,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 # 🔥 News
 - *2026.03.12*: &nbsp;🎉 Our paper entitled "[Frequency-to-Spectrum Mapping GAN for Semisupervised Hyperspectral Anomaly Detection](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12154)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
+- *2026.01.19*: &nbsp;🎉 Appointed as a reviewer of Information Processing in Agriculture from Jan. 19, 2026 to Jan. 19, 2028!
 - *2025.10.24*: &nbsp;🎉 Our paper entitled "[Similar Category Enhancement Network for Discrimination on Small Object Detection](https://ieeexplore.ieee.org/document/11223957)" has been accepted by IEEE TGRS!
 - *2025.10.01*: &nbsp;🎉 Our paper entitled "[HADDNLP: Hyperspectral Anomaly Detection via Double Nonlocal Priors](https://www.sciencedirect.com/science/article/abs/pii/S0031320325011987)" has been accepted by Pattern Recognition!
 - *2025.09.11*: &nbsp;🎉 Our paper entitled "[Non-Local and Local Feature-Coupled Self-Supervised Network for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/document/10890991)" has been selected as the **ESI Highly Cited Paper (TOP 1%)**!
@@ -320,6 +321,7 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 - Pattern Recognition
 - Information Fusion
 - Computers and Electronics in Agriculture
+- Information Processing in Agriculture
 - Knowledge-Based Systems
 - Expert Systems with Applications
 - Information Processing and Management
@@ -350,6 +352,7 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 - Discover Computing
 - Journal of Real-Time Image Processing
 - Computers and Electrical Engineering
+- Journal of Visual Communication and Image Representation
 - Remote Sensing Applications: Society and Environment
 - International Journal of Data Science and Analytics
 - Multimodal Transportation
