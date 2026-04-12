@@ -65,9 +65,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 19 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 6 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 40 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/TSIPN/IoT-J/JSTARS, PR, INFFUS, COMPAG, ESWA, KBS, and EAAI, etc. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
+I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, machine learning, and deep learning. In recent years, I have published 19 academic papers, including 9 papers as the first author in journals and conferences such as IEEE TGRS/JSTARS/GRSL and CAAI TRIT. Among these, 6 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 50 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TDSC/TAES/TCI/TSIPN/IoT-J/JSTARS, PR, INFFUS, COMPAG, ESWA, KBS, and EAAI, etc. I was awarded the President Scholarship for Postgraduate Students in 2025 and the National Scholarship for Doctoral Students in 2024.
 
-王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)，硕士生导师。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文19篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并授权国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文6篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TAES/TCI/TSIPN/IoT-J/JSTARS、PR、INFFUS、COMPAG、ESWA、KBS、EAAI等40多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
+王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)，硕士生导师。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、机器学习、深度学习。目前，共发表学术论文19篇，其中，以一作/学生一作身份在IEEE TGRS、CAAI TRIT等国际权威期刊和会议发表论文9篇，包括SCI论文7篇，EI会议论文1篇，CSCD论文1篇，并授权国家发明专利2项。其中，中科院1区Top论文5篇，**ESI高被引论文6篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TDSC/TAES/TCI/TSIPN/IoT-J/JSTARS、PR、INFFUS、COMPAG、ESWA、KBS、EAAI等50多个国际知名SCI期刊独立审稿人。先后获**中国科学院院长优秀奖**、博士研究生国家奖学金、中国科学院朱李月华奖学金、中国科学院大学三好学生标兵、中国科学院大学三好学生、中国科学院空天信息创新研究院优秀研究生特等奖学金、中国科学院空天信息创新研究院企业冠名奖学金一等奖等荣誉奖励。
 
 - Personal Website: [北京林业大学工学院个人主页](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/sssds/w_20200225164517660707/ddbdcf14e26342be82c1e0ffe022e0d5.html)
 - Email: wangdegang@bjfu.edu.cn, wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
@@ -110,7 +110,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 # 📝 Publications
 More papers information, please visit: [My Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
-[![Citations](https://img.shields.io/badge/Citations-770%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
+[![Citations](https://img.shields.io/badge/Citations-800%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
 [![ESI Highly Cited Papers](https://img.shields.io/badge/ESI_Highly_Cited_Papers-6%2B-FF6B6B?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
@@ -307,6 +307,7 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 - IEEE Transactions on Image Processing
 - IEEE Transactions on Circuits and Systems for Video Technology
 - IEEE Transactions on Geoscience and Remote Sensing
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Transactions on Aerospace and Electronic Systems
 - IEEE Transactions on Computational Imaging
 - IEEE Transactions on Signal and Information Processing over Networks
