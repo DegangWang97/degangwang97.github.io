@@ -110,7 +110,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 # 📝 Publications
 More papers information, please visit: [My Google Scholar Profile](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
-[![Citations](https://img.shields.io/badge/Citations-800%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
+[![Citations](https://img.shields.io/badge/Citations-890%2B-007ec6?logo=google-scholar&logoColor=white)]([https://scholar.google.com/citations?hl=zh-CN&user=aLJ8_G4AAAAJ](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl))
 [![ESI Highly Cited Papers](https://img.shields.io/badge/ESI_Highly_Cited_Papers-6%2B-FF6B6B?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=rB6THIoAAAAJ&hl)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TGRS 2023</div><img src='../images/BS3LNet.png' alt="sym" width="100%"></div></div>
@@ -353,6 +353,9 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 - Discover Computing
 - Journal of Real-Time Image Processing
 - Computers and Electrical Engineering
+- Machine Vision and Applications
+- Applied Sciences
+- Electronics
 - Journal of Visual Communication and Image Representation
 - Remote Sensing Applications: Society and Environment
 - International Journal of Data Science and Analytics
