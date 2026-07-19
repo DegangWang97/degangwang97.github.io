@@ -339,6 +339,7 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 - Measurement
 - Optics and Laser Technology
 - Infrared Physics and Technology
+- Journal of King Saud University Computer and Information Sciences
 - Pattern Recognition Letters
 - Applied Artificial Intelligence
 - Scientific Reports
