@@ -65,9 +65,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, and deep learning. In recent years, I have published 20 academic papers in journals and conferences such as IEEE TGRS/JSTARS/GRSL, JAG, PR, and CAAI TRIT. Among these, 7 papers have been selected as the **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 50 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TDSC/TAES/TCI/TSIPN/IoT-J/JSTARS, PR, INFFUS, COMPAG, ESWA, KBS, and EAAI, etc. I was awarded the **Outstanding Doctoral Dissertation of the Chinese Academy of Sciences** in 2026, the **President Scholarship for Postgraduate Students of the Chinese Academy of Sciences** in 2025, the National Scholarship for Doctoral Students in 2024, and the ZhuLiYueHua Scholarship for Excellent Doctoral Student of the Chinese Academy of Sciences in 2023.
+I received my Ph.D. degree from the [Aerospace Information Research Institute, Chinese Academy of Sciences](http://www.aircas.cas.cn/) on June 29, 2025, and joined [the School of Technology, Beijing Forestry University](https://gxy.bjfu.edu.cn/) on September 1, 2025. My research interests include hyperspectral remote sensing, target detection, anomaly detection, band selection, road extraction, and deep learning. In recent years, I have published more than 20 academic papers in journals and conferences such as IEEE TGRS/JSTARS/GRSL, JAG, PR, and CAAI TRIT. Among these, 7 papers have been selected as **ESI Highly Cited Paper (TOP 1%)**, 1 paper has been selected as the **WILEY Top Cited Article**, and an EI conference paper has won the Excellent PAPERS Award. I served as a reviewer for over 50 SCI journals, including IEEE TPAMI/TIP/TCSVT/TGRS/TDSC/TAES/TCI/TSIPN/IoT-J/JSTARS, PR, INFFUS, COMPAG, ESWA, KBS, and EAAI, etc. I was awarded the **Finalist Award in the 2026 IEEE GRSS China Chapter Chairs Council PhD Thesis Competition**, **Outstanding Doctoral Dissertation of the Chinese Academy of Sciences** in 2026, the **President Scholarship for Postgraduate Students of the Chinese Academy of Sciences** in 2025, the National Scholarship for Doctoral Students in 2024, and the ZhuLiYueHua Scholarship for Excellent Doctoral Student of the Chinese Academy of Sciences in 2023.
 
-王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、深度学习。目前，在IEEE TGRS、PR、JAG、CAAI TRIT等国内外高水平期刊和会议发表学术论文20篇，并授权国家发明专利2项。其中，**ESI高被引论文7篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金第79批面上资助项目。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TDSC/TAES/TCI/TSIPN/IoT-J/JSTARS、PR、INFFUS、COMPAG、ESWA、KBS、EAAI等50多个国际知名SCI期刊独立审稿人。先后获**中国科学院优秀博士学位论文（每年遴选不超过100篇）**、**中国科学院院长奖（中国科学院系统研究生教育的最高奖励）**、博士研究生国家奖学金、中国科学院朱李月华奖学金（中国科学院系统博士研究生每年奖励300名）、中国科学院空天信息创新研究院优秀研究生特等奖学金等荣誉奖励。
+王德港，1997年生，2025年于[中国科学院空天信息创新研究院](http://www.aircas.cas.cn/)获得博士学位，并入职[北京林业大学工学院](https://gxy.bjfu.edu.cn/)。研究方向为高光谱遥感、目标探测、异常检测、波段选择、道路提取、深度学习。目前，在IEEE TGRS、PR、JAG、CAAI TRIT等国内外高水平期刊和会议发表学术论文20余篇，并授权国家发明专利2项。其中，**ESI高被引论文7篇**，**Wiley 2023年度高被引论文1篇**，EI会议论文荣获国际会议优秀论文奖。主持国家自然科学基金青年科学基金项目（C类）、中国博士后科学基金第79批面上资助项目。受邀担任IEEE TPAMI/TIP/TCSVT/TGRS/TDSC/TAES/TCI/TSIPN/IoT-J/JSTARS、PR、INFFUS、COMPAG、ESWA、KBS、EAAI等50多个国际知名SCI期刊独立审稿人。先后获**中国科学院优秀博士学位论文（每年遴选不超过100篇）**、**中国科学院院长奖（中国科学院系统研究生教育的最高奖励）**、博士研究生国家奖学金、中国科学院朱李月华奖学金（中国科学院系统博士研究生每年奖励300名）、中国科学院空天信息创新研究院优秀研究生特等奖学金等荣誉奖励。
 
 - Personal Website: [北京林业大学工学院个人主页](https://gxy.bjfu.edu.cn/jiaozhiyuangong/jiaoshixilie/sssds/w_20200225164517660707/ddbdcf14e26342be82c1e0ffe022e0d5.html)
 - Email: wangdegang@bjfu.edu.cn, wangdegang20@mails.ucas.ac.cn, wangdg1997@qq.com
@@ -75,6 +75,7 @@ I received my Ph.D. degree from the [Aerospace Information Research Institute, C
 
 
 # 🔥 News
+- *2026.10.13*: &nbsp;🎉 My doctoral dissertation received the **Finalist Award in the 2026 IEEE GRSS China Chapter Chairs Council PhD Thesis Competition**!
 -  *2026.08.26*: &nbsp;🎉 获批国家自然科学基金青年科学基金项目（C类）！
 -  *2026.07.24*: &nbsp;🎉 获批中国博士后科学基金第79批面上资助项目！
 -  *2026.07.15*: &nbsp;🎉 Our paper entitled "[JLSAE: Joint Low-Rank and Sparse Autoencoder for Hyperspectral Anomaly Detection](https://ieeexplore.ieee.org/document/11622589)" has been accepted by IEEE TGRS!
@@ -287,6 +288,7 @@ Yu Zhao, Zhengchao Chen, Zhujun Zhao, Cong Li, Yongqing Bai, Zhaoming Wu, **Dega
 </div>
 
 # 🏅 Honors and Awards
+- *2026*: &nbsp;🏅 **Finalist Award in the 2026 IEEE GRSS China Chapter Chairs Council PhD Thesis Competition**
 - *2026*: &nbsp;🏅 **2026年度中国科学院优秀博士学位论文（每年遴选不超过100篇）**
 - *2025*: &nbsp;💰 **中国科学院院长奖（中国科学院系统研究生教育的最高奖励）** – 5,000 CNY
 - *2025*: &nbsp;🏅 中国科学院大学2024-2025学年三好学生标兵
